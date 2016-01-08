@@ -2,8 +2,10 @@
 
 ## Objectives
 
++ Link jQuery to HTML file
 + Write inline jQuery to modify HTML
 + Explain how jQuery modifies HTML
+
 
 ## Inline jQuery
 
