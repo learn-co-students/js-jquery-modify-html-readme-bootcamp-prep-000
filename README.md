@@ -42,6 +42,6 @@ $("#yo").append("hey hey hey hey!!!!!");
 
 Save the changes to `html/index.html` and reload in the browser. You should see `yo yo yo yo yo yo yo hey hey hey hey!!!!!` on the page!!
 
-The `$` tells our browser that we're using jQuery. The `("#yo")` is our jQuery selector -- we're selecting the HTml element with the ID `yo`. We're then using the jQuery `append` function, which adds text to an HTML element, and we're passing in `"hey hey hey hey!!!!!"` which is the text we want to add.
+The `$` tells our browser that we're using jQuery. The `("#yo")` is our jQuery selector -- we're selecting the HTML element with the ID `yo`. We're then using the jQuery `append` function, which adds text to an HTML element, and we're passing in `"hey hey hey hey!!!!!"` which is the text we want to add.
 
 Don't worry too much about the mechanics of these selectors and functions, we'll go over those in way more detail. Just notice that the text appeared on the screen!
