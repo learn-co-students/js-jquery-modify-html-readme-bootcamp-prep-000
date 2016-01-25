@@ -13,7 +13,7 @@ We're going to use jQuery to add some text to our HTML page.
 
 ### Include jQuery Link
 
-In order to start writing jQuery, we need to include the library in our HTML. You'll want to copy the code below and paste it `html/index.html` in between your head tags. This script tag links our HTML file to the jQuery library.
+In order to start writing jQuery, we need to include the library in our HTML. One way to do this would be to download a copy of the jQuery library and include it with our project. We can also link to the library hosted by a content delivery network, or CDN. For this example, we'll be loading jQuery from Google's CDN. You'll want to copy the code below and paste it `html/index.html` in between your head tags. This script tag links our HTML file to the jQuery library.
 
 ```html
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
