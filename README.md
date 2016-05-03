@@ -31,7 +31,7 @@ At the bottom of `index.html`, right before the closing `body` tag, we'll want t
 </script>
 ```
 
-Between these tags is where we want to write our inline jQuery. The script tags need to be at the bottom of the page because the code we're going to write it dependent on the `p` tag being already loaded in the browser. Our jQuery will error if there isn't a `p` tag to add text to.
+Between these tags is where we want to write our inline jQuery. The script tags need to be at the bottom of the page because the code we're going to write is dependent on the `p` tag being already loaded in the browser. Our jQuery will error if there isn't a `p` tag to add text to.
 
 And now, in between the script tags, add the following code:
 
@@ -46,3 +46,5 @@ The `$` tells our browser that we're using jQuery. The `("#yo")` is our jQuery s
 Don't worry too much about the mechanics of these selectors and functions, we'll go over those in way more detail. Just notice that the text appeared on the screen!
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-modify-html-readme' title='Modify HTML With jQuery'>Modify HTML With jQuery</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-jquery-modify-html-readme'>Modifying HTML with jQuery</a> on Learn.co and start learning to code for free.</p>
