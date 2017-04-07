@@ -12,7 +12,7 @@ We're going to use jQuery to add some text to our HTML page.
 
 ### Include jQuery Link
 
-This lesson doesn't render as a lab, but there are files within this repository you'll need to code along. Click on the Github icon in Learn, and fork and clone this repository.
+This lesson doesn't render as a lab, but there are files within this repository you'll need to code along. Click on the Github icon in Learn, and fork and clone this repository into your IDE.
 
 In order to start writing jQuery, we need to include the library in our HTML. One way to do this would be to download a copy of the jQuery library and include it with our project. We can also link to the library hosted by a content delivery network, or CDN. For this example, we'll be loading jQuery from Google's CDN. Copy the code below and paste it in `html/index.html` at the very bottom of the HTML `body` (right above the `</body>` close tag). This `script` tag links our HTML file to the jQuery library.
 
@@ -22,7 +22,7 @@ In order to start writing jQuery, we need to include the library in our HTML. On
 
 ### Adding Text
 
-Go ahead and open `html/index.html` in the browser. You should see a really boring looking website with the text `yo yo yo yo yo yo yo`.
+Go ahead and open `html/index.html` in the browser. To do this in the IDE, you'll want to run the `httpserver` command in the terminal. You should see something like this: `Serving HTTP on 159.203.117.55:3107`. Paste 159.203.117.55:3107 into your browser's URL bar and you should see a list of files and directories. Click on the one that says `html` and you should see really boring looking website with the text `yo yo yo yo yo yo yo`.
 
 We want to add the text `hey hey hey hey!!!!!` to end of our paragraph.
 
