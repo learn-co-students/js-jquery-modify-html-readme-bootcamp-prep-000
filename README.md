@@ -24,7 +24,7 @@ In order to start writing jQuery, we need to include the library in our HTML. On
 
 Go ahead and open `html/index.html` in the browser. You should see a really boring looking website with the text `yo yo yo yo yo yo yo`.
 
-We want to add the text `hey hey hey hey!!!!!` to end of our paragraph.
+We want to add the text `hey hey hey hey!!!!!` to the end of our paragraph.
 
 Below our `script` tag that loads jQuery, right before the closing `body` tag, we'll want to add an opening and a closing `script` tag:
 
