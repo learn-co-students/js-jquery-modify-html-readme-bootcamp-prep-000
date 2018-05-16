@@ -1,4 +1,4 @@
-# Modify HTML With jQuery
+cd # Modify HTML With jQuery
 
 ## Objectives
 
