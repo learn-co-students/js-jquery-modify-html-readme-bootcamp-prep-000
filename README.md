@@ -1,4 +1,4 @@
-# Modify HTML With jQuery
+git@github.com:learn-co-students/js-jquery-modify-html-readme-bootcamp-prep-000.git# Modify HTML With jQuery
 
 ## Objectives
 
