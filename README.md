@@ -1,6 +1,6 @@
 # Modify HTML With jQuery
 
-## Objectives
+## Objectives:
 
 + Load jQuery in HTML file
 + Write inline jQuery to modify HTML
