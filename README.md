@@ -49,4 +49,6 @@ The `$` is just a function — it's equivalent to `jQuery` (which is also a func
 
 Don't worry too much about the mechanics of these selectors and functions, we'll go over those in way more detail. Just notice that the text appeared on the screen, even though we didn't explicitly add it between the `p` tags.
 
+
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/js-jquery-modify-html-readme' title='Modify HTML With jQuery'>Modify HTML With jQuery</a> on Learn.co and start learning to code for free.</p>
