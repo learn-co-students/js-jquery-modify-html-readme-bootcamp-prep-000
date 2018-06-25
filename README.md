@@ -1,4 +1,4 @@
-# Modify HTML With jQuery
+git clone <link-copied-from-step-above># Modify HTML With jQuery
 
 ## Objectives
 
