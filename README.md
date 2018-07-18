@@ -30,6 +30,7 @@ Below our `script` tag that loads jQuery, right before the closing `body` tag, w
 
 ```html
 <script>
+a
 </script>
 ```
 
