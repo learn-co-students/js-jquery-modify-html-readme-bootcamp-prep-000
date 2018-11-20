@@ -4,7 +4,12 @@
 <body>
   <p id="yo"> yo yo yo yo yo yo yo </p>
   <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+  <script>$("#yo").append("hey hey hey hey!!!!!");</script>
+  <!--
+  You can do the same without JQuey
   <script>
-  $("#yo").append("hey hey hey hey!!!!!");
-</script>
+  let sel = document.querySelector('#yo');
+  sel.innerHTML += `hey hey hey`;
+  </script>
+  -->
 </body>
