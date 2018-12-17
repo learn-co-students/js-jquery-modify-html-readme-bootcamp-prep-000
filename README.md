@@ -21,7 +21,7 @@ In order to start writing jQuery, we need to include the library in our HTML. On
 ```
 
 ### Adding Text
-
+test
 Go ahead and open `html/index.html` in the browser. To do this in the IDE, you'll want to run the `httpserver` command in the terminal. You should see something like this: `Serving HTTP on 159.203.117.55:3107`. Paste 159.203.117.55:3107 into your browser's URL bar and you should see a list of files and directories. Click on the one that says `html` and you should see really boring looking website with the text `yo yo yo yo yo yo yo`.
 
 We want to add the text `hey hey hey hey!!!!!` to the end of our paragraph.
