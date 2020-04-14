@@ -11,7 +11,7 @@
 We're going to use jQuery to add some text to our HTML page.
 
 ### Include jQuery Link
-
+m
 This lesson doesn't render as a lab, but there are files within this repository you'll need to code along. Click on the GitHub icon in Learn, and [fork and clone this repository into your IDE](http://help.learn.co/workflow-tips/github/how-to-manually-open-a-lab).
 
 In order to start writing jQuery, we need to include the library in our HTML. One way to do this would be to download a copy of the jQuery library and include it with our project. We can also link to the library hosted by a content delivery network, or CDN. For this example, we'll be loading jQuery from Google's CDN. Copy the code below and paste it in `html/index.html` at the very bottom of the HTML `body` (right above the `</body>` close tag). This `script` tag links our HTML file to the jQuery library.
